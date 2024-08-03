@@ -1,6 +1,7 @@
 
 
 ## How to run
+- first, run script `npm i` to install all module
 - to run the app run script `npm run dev` in the terminal
 
 ## Service description
